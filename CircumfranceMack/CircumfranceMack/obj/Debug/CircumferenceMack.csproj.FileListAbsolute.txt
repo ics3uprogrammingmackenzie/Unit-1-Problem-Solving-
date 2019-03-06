@@ -1,0 +1,9 @@
+N:\StuShare\Semester 2 - Winter 2019\ICS3U Programming\Brown-Plourde, MacKenzie (s274575)\Unit 1 (Problem Solving)\CircumfranceMack\CircumfranceMack\bin\Debug\CircumfranceMack.exe.config
+N:\StuShare\Semester 2 - Winter 2019\ICS3U Programming\Brown-Plourde, MacKenzie (s274575)\Unit 1 (Problem Solving)\CircumfranceMack\CircumfranceMack\bin\Debug\CircumfranceMack.exe
+N:\StuShare\Semester 2 - Winter 2019\ICS3U Programming\Brown-Plourde, MacKenzie (s274575)\Unit 1 (Problem Solving)\CircumfranceMack\CircumfranceMack\bin\Debug\CircumfranceMack.pdb
+N:\StuShare\Semester 2 - Winter 2019\ICS3U Programming\Brown-Plourde, MacKenzie (s274575)\Unit 1 (Problem Solving)\CircumfranceMack\CircumfranceMack\obj\Debug\CircumferenceMack.csprojResolveAssemblyReference.cache
+N:\StuShare\Semester 2 - Winter 2019\ICS3U Programming\Brown-Plourde, MacKenzie (s274575)\Unit 1 (Problem Solving)\CircumfranceMack\CircumfranceMack\obj\Debug\CircumfranceMack.frmCircumference.resources
+N:\StuShare\Semester 2 - Winter 2019\ICS3U Programming\Brown-Plourde, MacKenzie (s274575)\Unit 1 (Problem Solving)\CircumfranceMack\CircumfranceMack\obj\Debug\CircumfranceMack.Properties.Resources.resources
+N:\StuShare\Semester 2 - Winter 2019\ICS3U Programming\Brown-Plourde, MacKenzie (s274575)\Unit 1 (Problem Solving)\CircumfranceMack\CircumfranceMack\obj\Debug\CircumferenceMack.csproj.GenerateResource.Cache
+N:\StuShare\Semester 2 - Winter 2019\ICS3U Programming\Brown-Plourde, MacKenzie (s274575)\Unit 1 (Problem Solving)\CircumfranceMack\CircumfranceMack\obj\Debug\CircumfranceMack.exe
+N:\StuShare\Semester 2 - Winter 2019\ICS3U Programming\Brown-Plourde, MacKenzie (s274575)\Unit 1 (Problem Solving)\CircumfranceMack\CircumfranceMack\obj\Debug\CircumfranceMack.pdb
